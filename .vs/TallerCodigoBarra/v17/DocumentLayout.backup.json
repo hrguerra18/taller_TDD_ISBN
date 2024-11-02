@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidad\\Especializacion 2\\Calidad\\TallerCodigoBarra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7290280B-BEC3-40F4-A7DF-0FA48A32C75F}|Entity\\Entity.csproj|e:\\universidad\\especializacion 2\\calidad\\tallercodigobarra\\entity\\validateisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7290280B-BEC3-40F4-A7DF-0FA48A32C75F}|Entity\\Entity.csproj|solutionrelative:entity\\validateisbn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29253296-4D91-4AA0-ACFA-216E769F8FB2}|TallerCodigoBarra\\TallerCodigoBarra.csproj|e:\\universidad\\especializacion 2\\calidad\\tallercodigobarra\\tallercodigobarra\\isbnvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29253296-4D91-4AA0-ACFA-216E769F8FB2}|TallerCodigoBarra\\TallerCodigoBarra.csproj|solutionrelative:tallercodigobarra\\isbnvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidateISBN.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\TallerCodigoBarra\\Entity\\ValidateISBN.cs",
+              "RelativeDocumentMoniker": "Entity\\ValidateISBN.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\TallerCodigoBarra\\Entity\\ValidateISBN.cs",
+              "RelativeToolTip": "Entity\\ValidateISBN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:00:39.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISBNValidatorTests.cs",
+              "DocumentMoniker": "E:\\Universidad\\Especializacion 2\\Calidad\\TallerCodigoBarra\\TallerCodigoBarra\\ISBNValidatorTests.cs",
+              "RelativeDocumentMoniker": "TallerCodigoBarra\\ISBNValidatorTests.cs",
+              "ToolTip": "E:\\Universidad\\Especializacion 2\\Calidad\\TallerCodigoBarra\\TallerCodigoBarra\\ISBNValidatorTests.cs",
+              "RelativeToolTip": "TallerCodigoBarra\\ISBNValidatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:48:14.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

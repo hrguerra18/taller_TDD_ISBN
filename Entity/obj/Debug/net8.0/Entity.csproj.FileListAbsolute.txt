@@ -1,0 +1,11 @@
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\bin\Debug\net8.0\Entity.deps.json
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\bin\Debug\net8.0\Entity.dll
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\bin\Debug\net8.0\Entity.pdb
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.dll
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\refint\Entity.dll
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\Entity.pdb
+E:\Universidad\Especializacion 2\Calidad\TallerCodigoBarra\Entity\obj\Debug\net8.0\ref\Entity.dll
